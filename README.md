@@ -34,7 +34,7 @@ This journal is about **discipline, real understanding, and building something i
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: Python, R
+- **Languages**: Python
 - **Libraries**: scikit-learn, pandas, numpy, matplotlib, seaborn, TensorFlow, PyTorch
 - **Environments**: Jupyter Notebooks, Google Colab
 - **Visualization**: Plotly, Tableau
